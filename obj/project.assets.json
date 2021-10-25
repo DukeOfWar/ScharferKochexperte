@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\Kochexperte.csproj",
-      "projectName": "Kochexperte",
-      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\Kochexperte.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj",
+      "projectName": "TestForms",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-﻿namespace Kochexperte
+﻿namespace TestForms
 {
     partial class Form1
     {
