@@ -28,11 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
+            // Form1
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Text = "Form1";
-        }
+
+
+            //textBox1
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            
+            this.textBox1.AcceptsReturn = true;
+            this.textBox1.AcceptsTab = true;
+            this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox1.Multiline = true;
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            }
 
         #endregion
     }

@@ -10,21 +10,30 @@ using System.Windows.Forms;
 
 namespace TestForms
 {
+    
     public partial class Form1 : Form
     {
         public Button button1;
+        private TextBox textBox1;
         public Form1()
         {
             // Hier Objekte anlegen
             InitializeComponent();
 
+            // Buttons
             button1 = new Button();
-            button1.Size = new Size(60, 80);
+            button1.Size = new Size(50, 40);
             button1.Location = new Point(30, 30);
             button1.Text = "Click me";
             this.Controls.Add(button1);
             button1.Click += new EventHandler(button1_Click);
-
+            
+            //Textboxes
+            TextBox textBox1 = new TextBox();
+            textBox1.Text = "Hello World!";
+            textBox1.Size = new Size(80, 30);
+            textBox1.Location = new Point(100, 30);
+            this.Controls.Add(textBox1);
         }
 
         // Hier Events 
