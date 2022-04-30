@@ -15,6 +15,7 @@ namespace TestForms
         public Button button1;
         public Form1()
         {
+            // Hier Objekte anlegen
             InitializeComponent();
 
             button1 = new Button();
@@ -26,6 +27,7 @@ namespace TestForms
 
         }
 
+        // Hier Events 
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World");
