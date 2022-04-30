@@ -13,10 +13,14 @@ namespace TestForms
     public partial class Form1 : Form
     {
         public Button button1;
+        Label label1;
         public Form1()
         {
             // Hier Objekte anlegen
             InitializeComponent();
+            
+            string v = "Hello there";
+
 
             button1 = new Button();
             button1.Size = new Size(60, 80);
@@ -24,7 +28,13 @@ namespace TestForms
             button1.Text = "Click me";
             this.Controls.Add(button1);
             button1.Click += new EventHandler(button1_Click);
+            
 
+            label1 = new Label();
+            label1.Size = new Size(60,40);
+            label1.Location = new Point(200,200);
+            label1.Text = v;
+            this.Controls.Add(label1);
         }
 
         // Hier Events 
