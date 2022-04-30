@@ -16,6 +16,7 @@ namespace TestForms
         public Button button1;
         private TextBox textBox1;
         Label label1;
+        CheckBox checkbox1;
         public Form1()
         {
             // Hier Objekte anlegen
@@ -44,6 +45,14 @@ namespace TestForms
             label1.Location = new Point(200,200);
             label1.Text = v;
             this.Controls.Add(label1);
+
+            checkbox1 = new CheckBox();
+            checkbox1.Location = new Point(300,300);
+            checkbox1.Height = 40;
+            checkbox1.Width = 100;
+            checkbox1.Text= "Moin";
+            this.Controls.Add(checkbox1);
+
         }
 
         // Hier Events 
