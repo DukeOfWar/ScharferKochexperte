@@ -14,11 +14,8 @@ namespace TestForms
     public partial class Form1 : Form
     {
         public Button button1;
-<<<<<<< HEAD
         private TextBox textBox1;
-=======
         Label label1;
->>>>>>> f37ef07e6b21ca1fc98ce23507953e58fc63ce75
         public Form1()
         {
             // Hier Objekte anlegen
@@ -35,21 +32,18 @@ namespace TestForms
             this.Controls.Add(button1);
             button1.Click += new EventHandler(button1_Click);
             
-<<<<<<< HEAD
             //Textboxes
             TextBox textBox1 = new TextBox();
             textBox1.Text = "Hello World!";
             textBox1.Size = new Size(80, 30);
             textBox1.Location = new Point(100, 30);
             this.Controls.Add(textBox1);
-=======
 
             label1 = new Label();
             label1.Size = new Size(60,40);
             label1.Location = new Point(200,200);
             label1.Text = v;
             this.Controls.Add(label1);
->>>>>>> f37ef07e6b21ca1fc98ce23507953e58fc63ce75
         }
 
         // Hier Events 

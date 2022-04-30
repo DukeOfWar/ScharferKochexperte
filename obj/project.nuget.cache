@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6SOTn2TQ16xpUam1hAtGNwTfS+gGcC65V/1NkwyQVGBIjskIJgH0ikNCkByx0t6VlweAvBRAF2jzMHTwbxa+WQ==",
+  "dgSpecHash": "clckk2jKWzx+1vs1utWaPOkaJDd0QZFyv5Qyh0Ll30CTmAoUhSC49h8oo96wd0EWmB2VoC+IROw3ZYhjUkoSaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ulrich\\github\\ScharferKochexperte\\ScharferKochexperte\\TestForms.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ulrich\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ulrich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ulrich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ulrich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\TestForms.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
