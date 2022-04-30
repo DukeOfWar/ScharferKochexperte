@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\TestForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\TestForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\TestForms.csproj",
         "projectName": "TestForms",
-        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\TestForms.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\TestForms.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Kochexperte\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Repos\\ScharferKochexperte\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
